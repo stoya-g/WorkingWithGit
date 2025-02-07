@@ -108,13 +108,13 @@
       <AssemblyReference>System.Linq.Expressions</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="TableExtraction" sap:VirtualizedContainerService.HintSize="923,1161" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="TableExtraction" sap:VirtualizedContainerService.HintSize="923,1172" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uix:NApplicationCard sap2010:Annotation.AnnotationText="Adding a note for GitHub" AttachMode="ByInstance" CloseMode="Never" DisplayName="Use Browser Chrome: Google" sap:VirtualizedContainerService.HintSize="484,1138" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="f033582c-dd7a-4f33-b838-63ba01a20380" Version="V2">
+    <uix:NApplicationCard sap2010:Annotation.AnnotationText="Adding a note for GitHub&#xD;&#xA;Adding 2nd note for a 2nd commit" AttachMode="ByInstance" CloseMode="Never" DisplayName="Use Browser Chrome: Google" sap:VirtualizedContainerService.HintSize="484,1149" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="f033582c-dd7a-4f33-b838-63ba01a20380" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
