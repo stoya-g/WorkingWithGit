@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Type Into 'Cash In'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "vtl9Z4f3RUetLH4IN5hbfA",
+  "Reference": "rlx6GiI2CUiqulgQMMmoUg/vtl9Z4f3RUetLH4IN5hbfA",
+  "ParentRef": "rlx6GiI2CUiqulgQMMmoUg/JJmWfYzH8UeVH5t7KBJcxA",
+  "Created": "2025-01-16T18:08:33.4527401Z",
+  "Updated": "2025-01-16T18:08:53.6138494Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

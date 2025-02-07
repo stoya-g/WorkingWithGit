@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Chrome: ACME Log In Page",
+  "Type": "Screen",
+  "Id": "msqNhAgmmEypeLvBpOf-xg",
+  "Reference": "rlx6GiI2CUiqulgQMMmoUg/msqNhAgmmEypeLvBpOf-xg",
+  "ParentRef": "rlx6GiI2CUiqulgQMMmoUg/e1kpIpWDAkWbAuwzVfmIvg",
+  "Created": "2024-06-24T11:44:33.3214172Z",
+  "Updated": "2024-06-24T11:46:00.9582821Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

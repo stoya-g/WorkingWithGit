@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Browser DoubleUI",
+  "Type": "App",
+  "Id": "r5xtXSyEA0-A_zry5Uu5ew",
+  "Reference": "rlx6GiI2CUiqulgQMMmoUg/r5xtXSyEA0-A_zry5Uu5ew",
+  "Created": "2025-01-16T18:07:03.3043935Z",
+  "Updated": "2025-01-16T18:07:03.3043935Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

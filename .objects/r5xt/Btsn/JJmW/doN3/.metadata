@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text 'Transaction #'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "doN3QncXa0O6zU6fv2J_8Q",
+  "Reference": "rlx6GiI2CUiqulgQMMmoUg/doN3QncXa0O6zU6fv2J_8Q",
+  "ParentRef": "rlx6GiI2CUiqulgQMMmoUg/JJmWfYzH8UeVH5t7KBJcxA",
+  "Created": "2025-01-16T18:09:44.5611338Z",
+  "Updated": "2025-01-16T18:09:44.5611338Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
